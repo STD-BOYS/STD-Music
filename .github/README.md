@@ -1,9 +1,9 @@
 <p align="center">
-    <br><b>🎧Aero Music🎶</b><br>
+    <br><b>🎧STD Music🎶</b><br>
 </p>
-<p align="center"><a href="https://t.me/AerodynamicV1_Promotion"><img src="https://telegra.ph//file/c6d7af5a8dc30ea72764f.jpg"></a></p>
+<p align="center"><a href="https://t.me/best_friends_chat_group"><img src="https://te.legra.ph/file/b098eec5ecc61fdbed99e.jpg"></a></p>
 
-🎧Aero-Music🎵 is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+🎧STD-Music🎵 is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/AerodynamicV1Botz/Aero-Music?style=for-the-badge" alt="Stars">
@@ -91,9 +91,9 @@ python3 main.py # Run the bot
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/AerodynamicV1_UPDATE"><img src="https://img.shields.io/badge/-UPDATE%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/AerodynamicV1_Promotion"><img src="https://img.shields.io/badge/-SUPPORT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/AerodynamicV1_OFFICIAL"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/STD_Vs_LIFELINE"><img src="https://img.shields.io/badge/-UPDATE%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/best_friends_chat_group"><img src="https://img.shields.io/badge/-SUPPORT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
