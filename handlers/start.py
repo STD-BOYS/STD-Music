@@ -18,11 +18,11 @@ This Is [{bn}](t.me/{bu}), A Super Fast VC Player Bot For Telegram Group VideoCh
 Press /help to see all the commands and how they work!
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★Made By: [AerodynamicV1~🇮🇳](t.me/AerodynamicV1_OFFICIAL)
+┣★Made By: [𝐓𝐄𝐀𝐌 𝐒𝐓𝐃~🇮🇳](t.me/STD_DEEPANSHU)
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
-💞 If You Have Any Questions About Me Then DM To My[👑Owner👑](t.me/AerodynamicV1_OFFICIAL).....
+💞 If You Have Any Questions About Me Then DM To My[👑Owner👑](t.me/STD_DEEPANSHU).....
 ━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -35,17 +35,17 @@ Press /help to see all the commands and how they work!
                         "👑Owner👑", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "[► Instagram ◄]​", url=f"https://instagram.com/aerodynamicv1_official?utm_medium=copy_link"
+                        "[► Instagram ◄]​", url=f"https://www.instagram.com/deep_meena_99/"
                     )
                 ],[
                     InlineKeyboardButton(
                         "[►Inline🔎◄]", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "[► ChitChat💬 ◄]", url=f"https://t.me/{SUPPORT_GROUP}"
+                        "[► 𝐒𝐓𝐃 𝐆𝐑𝐎𝐔𝐏💬 ◄]", url=f"https://t.me/{SUPPORT_GROUP}"
                     )],[
                     InlineKeyboardButton(
-                        "New Update Or More✅", url=f"https://t.me/AerodynamicV1_UPDATE"
+                        "𝐒𝐓𝐃 𝐔𝐏𝐃𝐀𝐓𝐄 Or More✅", url=f"https://t.me/STD_Vs_LIFELINE"
                        ),
                   ]
             ]
