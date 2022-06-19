@@ -85,8 +85,8 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [🇮🇳AerodynamicV1 Official🇮🇳](https://github.com/AerodynamicV1Botz): Developer
-- [🎧Aero Music Player🎵](https://telegram.me/Aero_MusicBot): Test Bot
+- [🇮🇳STD Official🇮🇳](https://github.com/STD-BOYS): Developer
+- [🎧STD Music Player🎵](http://t.me/STD_MUSIC_ROBOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
